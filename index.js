@@ -1,7 +1,8 @@
-<html><body> <script> 
+<script> 
 function getUrl() {
   return "https://importacioneslumina.com/files/DrFone_full4008.rar";
 }
 </script> 
-  <a href="javascript:getUrl();">Click Me</a> 
-</body></html>
+<script> 
+javascript:getUrl();
+  </script> 
